@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
-int input_up = 3;
-int input_dn = 4;
+int input_up = 4;
+int input_dn = 3;
 int relays[3] = {0, 2, 1};
 
 #define MODES_LENGTH 3
